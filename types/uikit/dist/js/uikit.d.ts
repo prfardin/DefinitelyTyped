@@ -124,6 +124,15 @@ export namespace UIkit {
 
     type HeightMatch = (element: UIkitElement, options?: UIkitHeightMatchOptions) => void;
 
+    interface UIkitHeightViewportOptions {
+        offsetTop?: boolean | string | undefined;
+        offsetBottom?: boolean | number | string | undefined;
+        expand?: boolean | undefined;
+        minHeight?: number | undefined;
+    }
+
+    type HeightViewport = (element: UIkitElement, options?: UIkitHeightViewportOptions) => void;
+
     interface UIkitIconOptions {
         icon?: string | undefined;
         ratio?: number | undefined;
@@ -550,7 +559,7 @@ export namespace UIkit {
         "before-all"?: object | undefined;
         "before-send"?: object | undefined;
         complete?: object | undefined;
-        "complete-all"?: object | undefined;
+        "complete-all"?: object | undefined;    
         error?: object | undefined;
         load?: object | undefined;
         "load-end"?: object | undefined;
@@ -570,6 +579,7 @@ export namespace UIkit {
     const formCustom: FormCustom;
     const grid: Grid;
     const heightMatch: HeightMatch;
+    const heightViewport: HeightViewport;
     const icon: Icon;
     const image: Img;
     const leader: Leader;
