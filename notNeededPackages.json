@@ -2617,6 +2617,10 @@
             "libraryName": "format-number",
             "asOfVersion": "3.0.0"
         },
+        "fossil-delta": {
+            "libraryName": "fossil-delta",
+            "asOfVersion": "2.0.0"
+        },
         "foundation-sites": {
             "libraryName": "foundation-sites",
             "asOfVersion": "6.4.3"
