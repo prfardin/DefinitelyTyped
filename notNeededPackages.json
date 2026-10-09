@@ -1933,6 +1933,10 @@
             "libraryName": "electron-devtools-installer",
             "asOfVersion": "4.0.0"
         },
+        "electron-installer-dmg": {
+            "libraryName": "electron-installer-dmg",
+            "asOfVersion": "5.0.1"
+        },
         "electron-is-dev": {
             "libraryName": "electron-is-dev",
             "asOfVersion": "1.1.0"
