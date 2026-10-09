@@ -612,6 +612,10 @@
             "libraryName": "bs58check",
             "asOfVersion": "3.0.1"
         },
+        "bs58grscheck": {
+            "libraryName": "bs58grscheck",
+            "asOfVersion": "3.0.1"
+        },
         "bson": {
             "libraryName": "bson",
             "asOfVersion": "4.2.0"
