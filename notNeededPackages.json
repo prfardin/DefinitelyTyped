@@ -596,6 +596,10 @@
             "libraryName": "bson",
             "asOfVersion": "4.2.0"
         },
+        "buffer-crc32": {
+            "libraryName": "buffer-crc32",
+            "asOfVersion": "1.0.0"
+        },
         "bugsnag": {
             "libraryName": "bugsnag-js",
             "asOfVersion": "3.1.0"
