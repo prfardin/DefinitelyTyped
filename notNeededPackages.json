@@ -400,6 +400,10 @@
             "libraryName": "badgen",
             "asOfVersion": "2.7.1"
         },
+        "balanced-match": {
+            "libraryName": "balanced-match",
+            "asOfVersion": "4.0.4"
+        },
         "barnard59": {
             "libraryName": "barnard59",
             "asOfVersion": "4.4.0"
