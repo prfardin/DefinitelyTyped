@@ -1665,6 +1665,10 @@
             "libraryName": "decompress-response",
             "asOfVersion": "4.1.0"
         },
+        "dedent": {
+            "libraryName": "dedent",
+            "asOfVersion": "1.7.2"
+        },
         "deep-freeze-es6": {
             "libraryName": "deep-freeze-es6",
             "asOfVersion": "1.1.0"
