@@ -1508,6 +1508,12 @@ function testDeclarativeContent() {
     };
 
     const condition = new chrome.declarativeContent.PageStateMatcher(pageStateMatcherProperties); // $ExpectType PageStateMatcher
+    // @ts-expect-error Invalid port ranges in UrlFilter.
+    new chrome.declarativeContent.PageStateMatcher({ pageUrl: { ports: [80, []] } });
+    // @ts-expect-error Invalid port ranges in UrlFilter.
+    new chrome.declarativeContent.PageStateMatcher({ pageUrl: { ports: [80, [1000]] } });
+    // @ts-expect-error Invalid port ranges in UrlFilter.
+    new chrome.declarativeContent.PageStateMatcher({ pageUrl: { ports: [80, [1000, 1500, 2000]] } });
 
     const requestContentScriptProperties: chrome.declarativeContent.RequestContentScriptProperties = {
         allFrames: true,
