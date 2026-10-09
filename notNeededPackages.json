@@ -2521,6 +2521,10 @@
             "libraryName": "fkill",
             "asOfVersion": "6.0.0"
         },
+        "flat": {
+            "libraryName": "flat",
+            "asOfVersion": "6.0.1"
+        },
         "flatbuffers": {
             "libraryName": "flatbuffers",
             "asOfVersion": "2.0.1"
