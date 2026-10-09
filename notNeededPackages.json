@@ -2657,6 +2657,10 @@
             "libraryName": "foundation-sites",
             "asOfVersion": "6.4.3"
         },
+        "fparser": {
+            "libraryName": "fparser",
+            "asOfVersion": "4.2.0"
+        },
         "framebus": {
             "libraryName": "framebus",
             "asOfVersion": "4.0.0"
