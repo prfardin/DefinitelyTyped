@@ -1549,6 +1549,10 @@
             "libraryName": "cytoscape-popper",
             "asOfVersion": "4.0.0"
         },
+        "d3-3d": {
+            "libraryName": "d3-3d",
+            "asOfVersion": "2.0.2"
+        },
         "dailymotion__vast-client": {
             "libraryName": "@dailymotion/vast-client",
             "asOfVersion": "6.4.1"
