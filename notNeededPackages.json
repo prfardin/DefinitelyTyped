@@ -28,6 +28,10 @@
             "libraryName": "accessibility",
             "asOfVersion": "4.5.4"
         },
+        "ace-diff": {
+            "libraryName": "ace-diff",
+            "asOfVersion": "4.0.0"
+        },
         "acme-client": {
             "libraryName": "acme-client",
             "asOfVersion": "3.3.0"
