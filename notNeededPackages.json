@@ -2469,6 +2469,10 @@
             "libraryName": "filesize",
             "asOfVersion": "5.0.0"
         },
+        "filestack-react": {
+            "libraryName": "filestack-react",
+            "asOfVersion": "7.0.1"
+        },
         "filter-console": {
             "libraryName": "filter-console",
             "asOfVersion": "0.1.1"
