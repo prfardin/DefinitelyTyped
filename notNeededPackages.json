@@ -320,6 +320,10 @@
             "libraryName": "@atlaskit/tree",
             "asOfVersion": "7.0.0"
         },
+        "atmosphere.js": {
+            "libraryName": "atmosphere.js",
+            "asOfVersion": "5.0.47"
+        },
         "aurelia-knockout": {
             "libraryName": "aurelia-knockout",
             "asOfVersion": "2.1.0"
