@@ -520,6 +520,10 @@
             "libraryName": "bingmaps",
             "asOfVersion": "2.0.15"
         },
+        "bip21": {
+            "libraryName": "bip21",
+            "asOfVersion": "3.0.0"
+        },
         "bip32": {
             "libraryName": "bip32",
             "asOfVersion": "2.0.0"
