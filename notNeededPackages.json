@@ -2609,6 +2609,10 @@
             "libraryName": "form-urlencoded",
             "asOfVersion": "4.4.0"
         },
+        "format-duration": {
+            "libraryName": "format-duration",
+            "asOfVersion": "4.0.0"
+        },
         "format-number": {
             "libraryName": "format-number",
             "asOfVersion": "3.0.0"
