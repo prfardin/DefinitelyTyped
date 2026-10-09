@@ -824,6 +824,10 @@
             "libraryName": "@chenfengyuan/vue-qrcode",
             "asOfVersion": "2.0.0"
         },
+        "chess.js": {
+            "libraryName": "chess.js",
+            "asOfVersion": "1.4.0"
+        },
         "chokidar": {
             "libraryName": "chokidar",
             "asOfVersion": "2.1.3"
