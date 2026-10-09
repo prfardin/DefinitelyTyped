@@ -160,6 +160,10 @@
             "libraryName": "animejs",
             "asOfVersion": "4.0.0"
         },
+        "annyang": {
+            "libraryName": "annyang",
+            "asOfVersion": "3.0.0"
+        },
         "ansi-colors": {
             "libraryName": "ansi-colors",
             "asOfVersion": "3.2.1"
