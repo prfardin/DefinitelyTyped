@@ -760,6 +760,10 @@
             "libraryName": "cbor",
             "asOfVersion": "6.0.0"
         },
+        "ccapture.js": {
+            "libraryName": "ccapture.js",
+            "asOfVersion": "2.0.0"
+        },
         "ceddl__ceddl-polyfill": {
             "libraryName": "@ceddl/ceddl-polyfill",
             "asOfVersion": "0.9.9"
