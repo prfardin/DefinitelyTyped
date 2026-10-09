@@ -1108,6 +1108,10 @@
             "libraryName": "@ckeditor/ckeditor5-word-count",
             "asOfVersion": "37.0.0"
         },
+        "classificator": {
+            "libraryName": "classificator",
+            "asOfVersion": "1.0.1"
+        },
         "classify-poetry": {
             "libraryName": "classify-poetry",
             "asOfVersion": "1.0.1"
