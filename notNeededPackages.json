@@ -1981,6 +1981,10 @@
             "libraryName": "enhanced-resolve",
             "asOfVersion": "5.0.0"
         },
+        "enigma.js": {
+            "libraryName": "enigma.js",
+            "asOfVersion": "2.15.0"
+        },
         "ensure-error": {
             "libraryName": "ensure-error",
             "asOfVersion": "2.0.0"
