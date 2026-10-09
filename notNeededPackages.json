@@ -2517,6 +2517,10 @@
             "libraryName": "flux-standard-action",
             "asOfVersion": "1.1.0"
         },
+        "for-each": {
+            "libraryName": "for-each",
+            "asOfVersion": "0.3.5"
+        },
         "force-graph": {
             "libraryName": "force-graph",
             "asOfVersion": "1.26.0"
