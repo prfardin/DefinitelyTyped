@@ -1841,6 +1841,10 @@
             "libraryName": "dva",
             "asOfVersion": "1.1.0"
         },
+        "earcut": {
+            "libraryName": "earcut",
+            "asOfVersion": "3.2.4"
+        },
         "easy-speech": {
             "libraryName": "easy-speech",
             "asOfVersion": "2.1.1"
