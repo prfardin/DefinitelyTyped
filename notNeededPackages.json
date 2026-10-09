@@ -684,6 +684,10 @@
             "libraryName": "camljs",
             "asOfVersion": "2.8.1"
         },
+        "caniuse-api": {
+            "libraryName": "caniuse-api",
+            "asOfVersion": "4.0.0"
+        },
         "canvaskit-wasm": {
             "libraryName": "canvaskit-wasm",
             "asOfVersion": "0.18.1"
