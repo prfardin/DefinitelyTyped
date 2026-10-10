@@ -43,11 +43,11 @@ export namespace UIkit {
 
     // component $emit types
     type UIkitUpdateType =
-        | 'update'
-        | 'resize'
-        | 'scroll'
-        | 'resizeViewport'
-        | 'computed'
+        | "update"
+        | "resize"
+        | "scroll"
+        | "resizeViewport"
+        | "computed";
 
     // Base classes
 
@@ -74,7 +74,11 @@ export namespace UIkit {
     }
 
     /** A helper type that represents a UIkit initialization function. */
-    type UIkitFunction<TOptions extends {}, TElement extends UIkitElementBase = UIkitElementBase, TPrimaryOption = never> = (
+    type UIkitFunction<
+        TOptions extends {},
+        TElement extends UIkitElementBase = UIkitElementBase,
+        TPrimaryOption = never,
+    > = (
         element: UIkitElement,
         options?: TOptions | TPrimaryOption,
     ) => TElement;
@@ -566,7 +570,7 @@ export namespace UIkit {
 
     // Ofcanvas
 
-    type UIkitOffcanvasMode = "slide" | "reveal" | "push" | "none"
+    type UIkitOffcanvasMode = "slide" | "reveal" | "push" | "none";
 
     interface UIkitOffcanvasOptions {
         /** Off-canvas animation mode (slide, reveal, push or none). */
